@@ -1,0 +1,20 @@
+{
+    "people":[
+        {
+            "name":"Duy Khanh",
+            "age":20
+        },
+        {
+            "name":"Dang Khoa",
+            "age":90
+        },
+        {
+            "name":"Huynh Khanh",
+            "age":23
+        },
+        {
+            "name":"Quy Long",
+            "age":22
+        }
+    ]
+}
